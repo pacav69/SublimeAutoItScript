@@ -1,4 +1,4 @@
-## How to map F1 Key in SublimeText to open AutoIt documentation for the word under the keyboard cusor.
+## How to map F1 Key in SublimeText to open AutoIt documentation for the word under the keyboard cursor.
 
 
 ### 1. Install goto-documentation plugin
